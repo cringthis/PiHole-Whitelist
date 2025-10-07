@@ -4,47 +4,32 @@
 
 <br />
 
+<div align="center">
 
-<div align="center">
-  <a href="#" > 
-    <img src="https://img.shields.io/github/repo-size/GoodnessJSON/PiHole-Whitelist?label=Repo%20Size&color=orange" alt="repo size" >
-  <a/>
-   <a href="#" > 
-    <img src="https://img.shields.io/github/stars/GoodnessJSON/PiHole-Whitelist?label=Stars" alt="stars" >
-  <a/>   
-  <a href="#" > 
-    <img src="https://img.shields.io/github/last-commit/GoodnessJSON/PiHole-Whitelist?label=Last%20Updated" alt="last updated" >
-  <a/>
-   <a href="https://github.com/GoodnessJSON/PiHole-Whitelist/commits/master" > 
-    <img src="https://img.shields.io/github/commit-activity/y/GoodnessJSON/PiHole-Whitelist?label=Commit%20Activity" alt="commit activity" >
-  <a/>
-  <a href="https://github.com/GoodnessJSON/PiHole-Whitelist/issues" > 
-    <img src="https://img.shields.io/github/issues-raw/GoodnessJSON/PiHole-Whitelist?label=Open%20Issues&color=critical" alt="open issues" >
-  <a/>
-  <a href="https://github.com/GoodnessJSON/PiHole-Whitelist/issues?q=is%3Aissue+is%3Aclosed" > 
-    <img src="https://img.shields.io/github/issues-closed-raw/GoodnessJSON/PiHole-Whitelist?label=Closed%20Issues&color=inactive" alt="closed issues" >
-  <a/>
-  <a href="https://github.com/GoodnessJSON/PiHole-Whitelist/graphs/contributors" > 
-    <img src="https://img.shields.io/github/contributors/GoodnessJSON/PiHole-Whitelist?label=Contributors&color=yellow" alt="contributors" >
-  <a/>
-</div>
-    
-<div align="center">
-  <h1>Collection of commonly white listed domains for <br> Pi-Hole®</h1> 
-</div>
+[![repo size][size badge]](#)
+[![stars][stars badge]](#)
+[![last updated][last updated badge]](#)
+[![commit activity][commit activity badge]](../../commits/master)
+[![open issues][open issues badge]](../../issues)
+[![closed issues][closed issues badge]](../../issues?q=is%3Aissue+is%3Aclosed)
+[![contributors][contributors badge]](../../graphs/contributors)
 
-</div>
-<div align="center">
-  
+[size badge]: https://img.shields.io/github/repo-size/cringthis/PiHole-Whitelist?label=Repo%20Size&color=orange
+[stars badge]: https://img.shields.io/github/stars/cringthis/PiHole-Whitelist?label=Stars
+[last updated badge]: https://img.shields.io/github/last-commit/cringthis/PiHole-Whitelist?label=Last%20Updated
+[commit activity badge]: https://img.shields.io/github/commit-activity/y/cringthis/PiHole-Whitelist?label=Commit%20Activity
+[open issues badge]: https://img.shields.io/github/issues-raw/cringthis/PiHole-Whitelist?label=Open%20Issues&color=critical
+[closed issues badge]: https://img.shields.io/github/issues-closed-raw/cringthis/PiHole-Whitelist?label=Closed%20Issues&color=inactive
+[contributors badge]: https://img.shields.io/github/contributors/cringthis/PiHole-Whitelist?label=Contributors&color=yellow
+
+# Collection of commonly white listed domains for Pi-Hole®
+
 This repository hosts open-source, robust and vetted community whitelists for use with Pi-Hole V6.
 
 To keep this list as up to date as possible, PRs and domain suggestions are welcome and will try and be quickly resolved. Please see below for info.
 
 Want to report a new domain? Want to report an existing one? Feel free to file an [issue](https://github.com/GoodnessJSON/PiHole-Whitelist/issues).
 
-</div>
-
-<div align="center">
   <h3>
     <a href="https://github.com/GoodnessJSON/PiHole-Whitelist/releases">
       Releases
@@ -58,14 +43,11 @@ Want to report a new domain? Want to report an existing one? Feel free to file a
       Submit PR
     </a>
   </h3>
-</div>
-
-<div align="center">
 This is a fork of the original <a href="https://github.com/anudeepND/whitelist">anudeepND Whitelist</a>.</br>
 It's aim is to support Pi-Hole V6 and be responsive to community requests.
 </div>
 
-&nbsp;
+<br />
 
 ## <ins>Table of contents</ins>
 - [Features](#features)
