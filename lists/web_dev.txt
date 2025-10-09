@@ -1,0 +1,2 @@
+# Domains to occasionally whitelist for testing as a web dev that uses ads
+adsense.google.com
