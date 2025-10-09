@@ -1,0 +1,12 @@
+# Domains to occasionally whitelist for testing as a web dev that uses ads
+
+# Adsense-related
+adsense.google.com
+googleads.g.doubleclick.net
+pagead2.googlesyndication.com
+www.googletagmanager.com
+www.google-analytics.com
+
+# Microsoft-related
+clarity.ms
+clarity.microsoft.com
