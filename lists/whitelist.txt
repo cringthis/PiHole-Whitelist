@@ -199,8 +199,9 @@ www.msftconnecttest.com
 # German DYDNS Service
 ipv64.net
 
-# Discord cdn# 
+# Discord cdn# and account reset email-related click sub-domain
 cdn.discordapp.com
+click.discord.com
 
 # Bunnings: Required for authorisation and login
 authorisation.api.bunnings.com.au
