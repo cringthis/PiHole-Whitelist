@@ -6,6 +6,7 @@ googleads.g.doubleclick.net
 pagead2.googlesyndication.com
 www.googletagmanager.com
 www.google-analytics.com
+analyticssuitefrontend-pa.clients6.google.com
 
 # Microsoft-related
 clarity.ms
