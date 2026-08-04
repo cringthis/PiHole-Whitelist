@@ -209,3 +209,6 @@ authorisation.api.bunnings.com.au
 # problematic, usable domains disabled by others
 # Contains technical manuals from Staples
 marketingassets.staples.com
+
+# Paramount Plus
+saa.paramountplus.com
